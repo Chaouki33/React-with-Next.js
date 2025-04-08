@@ -1,18 +1,18 @@
 .container {
-    padding: 30px;
-  }
-  
-  h1 {
-    font-size: 2rem;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
-    font-size: 1.2rem;
-    margin: 10px 0;
-  }
-  
+  padding: 30px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
